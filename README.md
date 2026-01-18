@@ -42,6 +42,7 @@ install.packages(c(
   "ggraph", "wordcloud", "RColorBrewer", "janitor", "readr", 
   "dplyr", "tidyr", "ggplot2"
 ))
+```
 
 ---
 
